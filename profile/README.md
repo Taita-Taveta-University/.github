@@ -53,6 +53,7 @@ For any questions, suggestions, or feedback, please reach out to us at:
 - **Social Media**:
   - [Twitter](https://twitter.com/TaitaTavetaUni)  
   - [LinkedIn](https://linkedin.com/school/taita-taveta-university)
+  - [Whatsapp](https://bit.ly/ttudevs)
 
 Thank you for contributing to TTU's open-source community!
 
