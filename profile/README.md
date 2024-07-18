@@ -42,7 +42,7 @@ We are committed to providing a welcoming and inclusive environment for everyone
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as long as you adhere to the terms of the license.
+This repository is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the code as long as you adhere to the terms of the license.
 
 ## Contact Us
 
